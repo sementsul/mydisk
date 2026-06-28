@@ -1,0 +1,3 @@
+@ECHO OFF
+PATH C:\
+
