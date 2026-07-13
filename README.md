@@ -1,3 +1,0 @@
-# mydisk
-
-test
