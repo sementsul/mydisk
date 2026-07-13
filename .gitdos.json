@@ -1,0 +1,11 @@
+{
+  "hardware": {
+    "core": "auto",
+    "cputype": "auto",
+    "cycles": "auto",
+    "memsize": 16,
+    "machine": "svga_s3",
+    "sbtype": "sb16",
+    "pcspeaker": true
+  }
+}
